@@ -39,7 +39,7 @@ public class CommonTest {
 
         System.out.println(cycleNum(256,64)) ;
 
-        cycle();
+        //cycle();
     }
 
 
